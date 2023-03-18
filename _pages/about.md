@@ -7,12 +7,7 @@ description: (Yang 杨 [family name] Ziyan 紫嫣 [given name])
 profile:
   align: right
   image: prof_pic.jpg
-<!--   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
- -->
+  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page <p><strong>I am looking for internship opportunities for summer 2023 and planning to graduate in December 2023. Here is my <a href="assets/pdf/latest.pdf">CV</a>. Let me know if you think I can be a good fit.</strong></p>

@@ -4,4 +4,4 @@ date: 2021-06-08 07:59:00-0400
 inline: true
 ---
 
-kidding me??? :sparkles: :smile:
+I started an internship at eBay!
